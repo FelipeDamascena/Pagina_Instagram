@@ -1,2 +1,2 @@
 # Pagina_Instagram
-Recriando a página do Instagram
+Recriando a página inicial do Instagram
